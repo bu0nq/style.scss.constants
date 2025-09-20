@@ -10,7 +10,8 @@
     "@bu0nq/style.scss.constant.breakpoint": "github:bu0nq/style.scss.constant.breakpoint",
     "@bu0nq/style.scss.constant.content": "github:bu0nq/style.scss.constant.content",
     "@bu0nq/style.scss.constant.rounded": "github:bu0nq/style.scss.constant.rounded",
-    "@bu0nq/style.scss.constant.spacing": "github:bu0nq/style.scss.constant.spacing"
+    "@bu0nq/style.scss.constant.spacing": "github:bu0nq/style.scss.constant.spacing",
+    "@bu0nq/style.scss.constant.text": "github:bu0nq/style.scss.constant.text"
   },
   "repository": {
     "type": "git",
