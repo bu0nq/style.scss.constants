@@ -11,7 +11,8 @@
     "@bu0nq/style.scss.constant.content": "github:bu0nq/style.scss.constant.content",
     "@bu0nq/style.scss.constant.rounded": "github:bu0nq/style.scss.constant.rounded",
     "@bu0nq/style.scss.constant.spacing": "github:bu0nq/style.scss.constant.spacing",
-    "@bu0nq/style.scss.constant.text": "github:bu0nq/style.scss.constant.text"
+    "@bu0nq/style.scss.constant.text-line-height": "github:bu0nq/style.scss.constant.text-line-height",
+    "@bu0nq/style.scss.constant.text-size": "github:bu0nq/style.scss.constant.text-size"
   },
   "repository": {
     "type": "git",
