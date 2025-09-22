@@ -9,10 +9,7 @@
   "dependencies": {
     "@bu0nq/style.scss.constant.breakpoint": "github:bu0nq/style.scss.constant.breakpoint",
     "@bu0nq/style.scss.constant.container": "github:bu0nq/style.scss.constant.container",
-    "@bu0nq/style.scss.constant.rounded": "github:bu0nq/style.scss.constant.rounded",
-    "@bu0nq/style.scss.constant.spacing": "github:bu0nq/style.scss.constant.spacing",
-    "@bu0nq/style.scss.constant.text-size": "github:bu0nq/style.scss.constant.text-size",
-    "@bu0nq/style.scss.constant.text-weight": "github:bu0nq/style.scss.constant.text-weight"
+    "@bu0nq/style.scss.constant.spacing": "github:bu0nq/style.scss.constant.spacing"
   },
   "repository": {
     "type": "git",
